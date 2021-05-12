@@ -24,5 +24,10 @@
 
 ## Resources
 ### 강의
+- [리액트와 함께 장고 시작하기](https://educast.com/course/web-dev/ZU53)
 
 ### 도서
+
+### 튜토리얼
+- [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
+
