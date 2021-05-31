@@ -27,7 +27,8 @@
 - [리액트와 함께 장고 시작하기](https://educast.com/course/web-dev/ZU53)
 
 ### 도서
+- [Do it! 장고 + 부트스트랩 파이썬 웹 개발의 정석 ](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=259491574)
 
 ### 튜토리얼
 - [Dockerizing Django with Postgres, Gunicorn, and Nginx](https://testdriven.io/blog/dockerizing-django-with-postgres-gunicorn-and-nginx/)
-
+- [Django ORM (QuerySet)구조와 원리 그리고 최적화전략](https://github.com/KimSoungRyoul/Django_ORM_pratice_project/issues/7)
