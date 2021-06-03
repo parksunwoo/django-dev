@@ -1,4 +1,4 @@
-# django
+# django-dev
 
 ## Company
 기술블로그가 있는 경우에는 블로그를, 없는 경우에는 사이트를 링크로
