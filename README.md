@@ -6,6 +6,12 @@
 - [8퍼센트](https://8percent.github.io/)
 - [요기요](https://medium.com/deliverytechkorea/yogiyo-python/home)
 - [화해](http://blog.hwahae.co.kr/category/all/tech/)
+- [파운트](https://fount.co/)
+- [브레이브모바일(숨고,Soomgo)](https://soomgo.com/)
+- [매스프레소](https://mathpresso.com/ko)
+- [Riiid](https://riiid.com/ko/main)
+- [veluga](https://business.veluga.kr/)
+- [WECOOK](https://wecook.co.kr/)
 - 
 ### 해외
 - [Disqus]
